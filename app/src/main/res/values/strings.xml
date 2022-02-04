@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+
+    <string name="apricot">Apricot</string>
+    <string name="apple">Apple</string>
+    <string name="avocado">Avocado</string>
+    <string name="cherry">Cherry</string>
+    <string name="grapes">Grapes</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="lemon">Lemon</string>
+    <string name="watermelon">Watermelon</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="pear">Pear</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
